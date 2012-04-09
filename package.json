@@ -1,6 +1,6 @@
 {
     "name": "node-mobile-push"
-    , "version": "0.0.2"
+    , "version": "0.0.3"
     , "main": "./lib/"
     , "description": "a push library for mobile phones"
     , "dependencies": {
